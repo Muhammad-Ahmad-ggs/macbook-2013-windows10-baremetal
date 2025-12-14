@@ -1,3 +1,5 @@
+![MIT License](https://img.shields.io/badge/license-MIT-blue)
+
 # Installing and Optimizing Windows 10 on an Unsupported 2013 Intel MacBook
 
 ## Overview
