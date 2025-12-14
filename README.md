@@ -2,6 +2,21 @@
 
 # Installing and Optimizing Windows 10 on an Unsupported 2013 Intel MacBook
 
+## Table of Contents
+- [Overview](#overview)
+- [Disclaimer](#⚠️-disclaimer)
+- [Why This Project Exists](#why-this-project-exists)
+- [Motivation and Use Cases](#motivation-and-use-cases)
+- [System Specifications](#system-specifications)
+- [Technical Approach](#technical-approach)
+- [Installation Guide](#installation-guide)
+- [Challenges Faced](#challenges-faced)
+- [Results and Performance](#results-and-performance)
+- [What I Learned](#what-i-learned)
+- [Future Improvements](#future-improvements)
+- [Final Thoughts](#final-thoughts)
+
+
 ## Overview
 
 This project documents the complete process of installing and running Windows 10 on a 2013 Intel-based MacBook without using Apple Boot Camp. The system was converted into a full Windows machine by removing macOS entirely and manually handling firmware, boot, and driver limitations.
